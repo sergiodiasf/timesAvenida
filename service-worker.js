@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/timesAvenida/precache-manifest.cff137b2f4c24a0d5df23ea0ca4731f5.js"
+  "/timesAvenida/precache-manifest.982967ab8de78a8735acb5c21160ad9f.js"
 );
 
 self.addEventListener('message', (event) => {
