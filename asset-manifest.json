@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/timesAvenida/static/js/main.2ab5ff71.chunk.js",
+    "main.js.map": "/timesAvenida/static/js/main.2ab5ff71.chunk.js.map",
+    "runtime-main.js": "/timesAvenida/static/js/runtime-main.ff4011c5.js",
+    "runtime-main.js.map": "/timesAvenida/static/js/runtime-main.ff4011c5.js.map",
+    "static/js/2.ff4c2bb7.chunk.js": "/timesAvenida/static/js/2.ff4c2bb7.chunk.js",
+    "static/js/2.ff4c2bb7.chunk.js.map": "/timesAvenida/static/js/2.ff4c2bb7.chunk.js.map",
+    "index.html": "/timesAvenida/index.html",
+    "precache-manifest.cff137b2f4c24a0d5df23ea0ca4731f5.js": "/timesAvenida/precache-manifest.cff137b2f4c24a0d5df23ea0ca4731f5.js",
+    "service-worker.js": "/timesAvenida/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff4011c5.js",
+    "static/js/2.ff4c2bb7.chunk.js",
+    "static/js/main.2ab5ff71.chunk.js"
+  ]
+}
